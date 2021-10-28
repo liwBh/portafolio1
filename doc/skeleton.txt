@@ -1,0 +1,10 @@
+header
+
+main
+  home
+  about
+  skill_and_experience
+  portafolio
+  contant_us
+
+footer
